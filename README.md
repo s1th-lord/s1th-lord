@@ -1,3 +1,4 @@
+<!--- Yeah, this template is copied from someone's profile who copied it from someone else's ;) --->
 <br>
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -23,32 +24,7 @@
   
 
   
- <!--- 
-<h3 align="center" color="F85D7F">Connect with me -</h3>
 
-<p align="center">  
-<a href="https://linkedin.com/in/taufeeq" target="blank"><img align="center" src="https://taufeeq.ml/Assets/linkedin.svg" alt="taufeeq" height="30" width="40" /></a>  
-<a href="https://twitter.com/taufeeq_riyaz" target="blank"><img align="center" src="https://taufeeq.ml/Assets/twitter.svg" alt="pjVkWtEc9p" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16164323" target="blank"><img align="center" src="https://taufeeq.ml/Assets/stackoverflow.svg" alt="16164323" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/tg7tcpb9vx8ybk4j4dk7a24wp" target="blank"><img align="center" src="https://taufeeq.ml/Assets/spotify.svg" alt="16164323" height="30" width="40" /></a> 
-</p>  
-
-<h2 align="center" color="F85D7F"> My top open source projects -
-<br><br>
-<p align="center">
-<a href="https://github.com/TaufeeqRiyaz/Astronomy-Discord-Bot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TaufeeqRiyaz&repo=Astronomy-Discord-Bot&theme=react&bg_color=1F222E&title_color=B37FFF&icon_color=F85D7F&hide_border=true&show_icons=false"></a>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/TaufeeqRiyaz?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-B37FFF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
-  
-<h3 align="center" color="F85D7F">Languages and Tools -</h3>  
-<p align="center"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://taufeeq.ml/Assets/azure.svg" alt="azure" width="40" height="40"/></a> <a href="https://cloud.google.com" target="_blank"> <img src="https://taufeeq.ml/Assets/gcp.svg" alt="gcp" width="40" height="40"/> </a><a href="https://heroku.com" target="_blank"> <img src="https://taufeeq.ml/Assets/heroku.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://taufeeq.ml/Assets/ps.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.lightroom.com/en" target="_blank"> <img src="https://taufeeq.ml/Assets/lr.svg" alt="lightroom" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://taufeeq.ml/Assets/xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://taufeeq.ml/Assets/python.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://taufeeq.ml/Assets/html.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://taufeeq.ml/Assets/css.svg" alt="css3" width="40" height="40"/> </a><br> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://taufeeq.ml/Assets/bash.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://taufeeq.ml/Assets/cpp.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://taufeeq.ml/Assets/flutter.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://taufeeq.ml/Assets/figma.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://taufeeq.ml/Assets/git.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://taufeeq.ml/Assets/kotlin.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://taufeeq.ml/Assets/linux.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.kali.org/" target="_blank"> <img src="https://taufeeq.ml/Assets/kali.svg" alt="linux" width="40" height="40"/> </a></p>  
- <br>
- -->
  <h3 align="center" color="F85D7F">:zap: GitHub Stats -</h3>
  
  
@@ -73,7 +49,7 @@
     <img height="500px" src='https://random-memer.herokuapp.com/' alt="Please refresh the page if the meme doesn't show up.">
  </p>
 
-<h5 align="center" color="F85D7F">Thank you for visiting my profile, have a gooood dayy! :)</h5>
+<h5 align="center" color="F85D7F">This is a temporary account for experimental purposes. Thank you for visiting my profile, have a gooood dayy! :)</h5>
 
 
 ---
