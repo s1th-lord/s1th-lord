@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="https://www.starwars.com/"><img src="https://readme-typing-svg.herokuapp.com?size=21&color=B37FFF&center=true&vCenter=true&lines=hey!+I'm+Darth+Vader;welcome+to+my+profile;I+am+trying+new+things+here;"></a>
+  <a href="https://ibb.co/Db4rHj5"><img src="https://readme-typing-svg.herokuapp.com?size=21&color=B37FFF&center=true&vCenter=true&lines=hey!+I'm+Darth+Vader;welcome+to+my+profile;I+am+trying+new+things+here;"></a>
 </p>
 
 
